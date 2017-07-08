@@ -3,3 +3,4 @@ CIT Bank
 SBI
 BOFA
 Syndicate Bank
+ICICI
