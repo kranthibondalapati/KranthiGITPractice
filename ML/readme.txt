@@ -6,3 +6,4 @@ Syndicate Bank
 ICICI
 AXIS Bank
 discover
+RBI
