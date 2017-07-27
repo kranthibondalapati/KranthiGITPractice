@@ -17,3 +17,4 @@ do
 echo ""
 done
 
+echo "loop completed successfully"
